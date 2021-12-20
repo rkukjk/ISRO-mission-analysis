@@ -1,0 +1,91 @@
+ Name,Launch Date,Launcher Type,Payload,Orbit Type,Application,Outcome
+GSLV-F10 / EOS-03,"Aug 12, 2021",GSLV,EOS-03,GTO,Earth Observation,Launch unsuccessful
+PSLV-C51/Amazonia-1,"Feb 28, 2021",PSLV-DL,,,Student Satellite,Successful
+PSLV-C51/Amazonia-1,"Feb 28, 2021",PSLV-DL,,,Student Satellite,Successful
+PSLV-C50/CMS-01,"Dec 17, 2020",PSLV-XL,CMS-01,GSO,Communication,Successful
+PSLV-C49/EOS-01,"Nov 07, 2020",PSLV-DL,EOS-01,LEO,"Disaster Management System, Earth Observation",Successful
+PSLV-C48/RISAT-2BR1,"Dec 11, 2019",PSLV-QL,RISAT-2BR1,LEO,"Disaster Management System, Earth Observation",Successful
+PSLV-C47 / Cartosat-3 Mission,"Nov 27, 2019",PSLV-XL,Cartosat-3,SSPO,Earth Observation,Successful
+GSLV-Mk III - M1 / Chandrayaan-2 Mission,"Jul 22, 2019",GSLV-MK-III,Chandrayaan2,Lunar,Planetary Observation,Successful
+PSLV-C46 Mission,"May 22, 2019",PSLV-CA,RISAT-2B,LEO,"Disaster Management System, Earth Observation",Successful
+PSLV-C45/EMISAT MISSION,"Apr 01, 2019",PSLV-QL,EMISAT,SSPO,,Successful
+PSLV-C44,"Jan 24, 2019",PSLV-DL,Microsat-R,SSPO,,Successful
+PSLV-C44,"Jan 24, 2019",PSLV-DL,Microsat-R,,Student Satellite,Successful
+GSLV-F11 / GSAT-7A Mission,"Dec 19, 2018",GSLV,GSAT-7A,,Communication,Successful
+PSLV-C43 / HysIS Mission,"Nov 29, 2018",PSLV,HysIS,SSPO,Earth Observation,Successful
+GSLV Mk III-D2 / GSAT-29 Mission,"Nov 14, 2018",GSLV-MK-III,GSAT-29,GTO,Communication,Successful
+PSLV-C41/IRNSS-1I,"Apr 12, 2018",PSLV-XL,IRNSS-1I,GSO,Navigation,Successful
+GSLV-F08/GSAT-6A Mission,"Mar 29, 2018",GSLV,GSAT-6A,GSO,Communication,Successful
+PSLV-C40/Cartosat-2 Series Satellite Mission,"Jan 12, 2018",PSLV-XL,Cartosat-2 Series Satellite,SSPO,Experimental,Successful
+PSLV-C40/Cartosat-2 Series Satellite Mission,"Jan 12, 2018",PSLV-XL,Cartosat-2 Series Satellite,SSPO,Earth Observation,Successful
+PSLV-C40/Cartosat-2 Series Satellite Mission,"Jan 12, 2018",PSLV-XL,Cartosat-2 Series Satellite,SSPO,Experimental,Successful
+PSLV-C39/IRNSS-1H Mission,"Aug 31, 2017",PSLV-XL,IRNSS-1H,,Navigation,Launch Unsuccessful
+PSLV-C38 / Cartosat-2 Series Satellite,"Jun 23, 2017",PSLV-XL,Cartosat-2 Series Satellite,SSPO,Student Satellite,Successful
+PSLV-C38 / Cartosat-2 Series Satellite,"Jun 23, 2017",PSLV-XL,Cartosat-2 Series Satellite,SSPO,Earth Observation,Successful
+GSLV Mk III-D1/GSAT-19 Mission,"Jun 05, 2017",GSLV-MK-III,GSAT-19,GSO,Communication,Successful
+GSLV-F09 / GSAT-9,"May 05, 2017",GSLV,GSAT-9,GSO,Communication,Successful
+PSLV-C37 / Cartosat -2 Series Satellite,"Feb 15, 2017",PSLV-XL,Cartosat -2 Series Satellite,SSPO,Experimental,Successful
+PSLV-C37 / Cartosat -2 Series Satellite,"Feb 15, 2017",PSLV-XL,Cartosat -2 Series Satellite,SSPO,Experimental,Successful
+PSLV-C37 / Cartosat -2 Series Satellite,"Feb 15, 2017",PSLV-XL,Cartosat -2 Series Satellite,SSPO,Earth Observation,Successful
+PSLV-C36 / RESOURCESAT-2A,"Dec 07, 2016",PSLV-XL,RESOURCESAT-2A,SSPO,Earth Observation,Successful
+PSLV-C35 / SCATSAT-1,"Sep 26, 2016",PSLV,SCATSAT-1,SSPO,Student Satellite,Successful
+PSLV-C35 / SCATSAT-1,"Sep 26, 2016",PSLV,SCATSAT-1,SSPO,Student Satellite,Successful
+PSLV-C35 / SCATSAT-1,"Sep 26, 2016",PSLV,SCATSAT-1,SSPO,Climate & Environment,Successful
+GSLV-F05 / INSAT-3DR,"Sep 08, 2016",GSLV-MK-II,INSAT-3DR,GSO,"Climate & Environment, Disaster Management System",Successful
+PSLV-C34 / CARTOSAT-2 Series Satellite,"Jun 22, 2016",PSLV-XL,CARTOSAT-2 Series Satellite,SSPO,Student Satellite,Successful
+PSLV-C34 / CARTOSAT-2 Series Satellite,"Jun 22, 2016",PSLV-XL,CARTOSAT-2 Series Satellite,SSPO,Earth Observation,Successful
+PSLV-C34 / CARTOSAT-2 Series Satellite,"Jun 22, 2016",PSLV-XL,CARTOSAT-2 Series Satellite,SSPO,Student Satellite,Successful
+PSLV-C33/IRNSS-1G,"Apr 28, 2016",PSLV-XL,IRNSS-1G,GEO,Navigation,Successful
+PSLV-C32/IRNSS-1F,"Mar 10, 2016",PSLV-XL,IRNSS-1F,GEO,Navigation,Successful
+PSLV-C31/IRNSS-1E,"Jan 20, 2016",PSLV-XL,IRNSS-1E,GSO,Navigation,Successful
+PSLV-C30/AstroSat MISSION,"Sep 28, 2015",PSLV-XL,Astrosat,,Space Science,Successful
+GSLV-D6,"Aug 27, 2015",GSLV-MK-II,GSAT-6,GTO,Communication,Successful
+PSLV-C27/IRNSS-1D,"Mar 28, 2015",PSLV-XL,IRNSS-1D,GSO,Navigation,Successful
+LVM-3/CARE Mission,"Dec 18, 2014",GSLV-MK-III,Crew module Atmospheric Re-entry Experiment (CARE),,Experimental,Successful
+PSLV-C26/IRNSS-1C,"Oct 16, 2014",PSLV-XL,IRNSS-1C,GEO,Navigation,Successful
+PSLV-C24/IRNSS-1B,"Apr 04, 2014",PSLV-XL,IRNSS-1B,GSO,Navigation,Successful
+GSLV-D5/GSAT-14,"Jan 05, 2014",GSLV-MK-II,GSAT-14,GSO,Communication,Successful
+PSLV-C25,"Nov 05, 2013",PSLV-XL,Mars Orbiter Mission Spacecraft,Martian,Planetary Observation,Successful
+PSLV-C22/IRNSS-1A,"Jul 01, 2013",PSLV-XL,IRNSS-1A,GSO,Navigation,Successful
+PSLV-C20/SARAL,"Feb 25, 2013",PSLV-CA,SARAL,SSPO,"Climate & Environment, Earth Observation",Successful
+PSLV-C19/RISAT-1,"Apr 26, 2012",PSLV-XL,RISAT-1,SSPO,Earth Observation,Successful
+PSLV-C18/Megha-Tropiques,"Oct 12, 2011",PSLV-CA,Megha-Tropiques,SSPO,Student Satellite,Successful
+PSLV-C18/Megha-Tropiques,"Oct 12, 2011",PSLV-CA,Megha-Tropiques,SSPO,"Climate & Environment, Earth Observation",Successful
+PSLV-C18/Megha-Tropiques,"Oct 12, 2011",PSLV-CA,Megha-Tropiques,SSPO,Student Satellite,Successful
+PSLV-C17/GSAT-12,"Jul 15, 2011",PSLV-XL,GSAT-12,GSO,Communication,Successful
+PSLV-C16/RESOURCESAT-2,"Apr 20, 2011",PSLV-G,RESOURCESAT-2,SSPO,Student Satellite,Successful
+PSLV-C16/RESOURCESAT-2,"Apr 20, 2011",PSLV-G,RESOURCESAT-2,SSPO,Earth Observation,Successful
+GSLV-F06 / GSAT-5P,"Dec 25, 2010",GSLV-MK-II,GSAT-5P,GSO,Communication,Launch Unsuccessful
+PSLV-C15/CARTOSAT-2B,"Jul 12, 2010",PSLV-CA,CARTOSAT-2B,SSPO,Student Satellite,Successful
+PSLV-C15/CARTOSAT-2B,"Jul 12, 2010",PSLV-CA,CARTOSAT-2B,SSPO,Earth Observation,Successful
+GSLV-D3 / GSAT-4,"Apr 15, 2010",GSLV-MK-II,GSAT-4,GSO,Communication,Launch Unsuccessful
+PSLV-C14 / OCEANSAT-2,"Sep 23, 2009",PSLV-CA,Oceansat-2,SSPO,"Climate & Environment, Earth Observation",Successful
+PSLV-C12 / RISAT-2,"Apr 20, 2009",PSLV-CA,RISAT-2,SSPO,Student Satellite,Successful
+PSLV-C12 / RISAT-2,"Apr 20, 2009",PSLV-CA,RISAT-2,SSPO,Earth Observation,Successful
+PSLV-C11,"Oct 22, 2008",PSLV-XL,Chandrayaan-1,Lunar,Planetary Observation,Successful
+PSLV-C9 / CARTOSAT – 2A,"Apr 28, 2008",PSLV-CA,CARTOSAT – 2A,SSPO,Earth Observation,Successful
+PSLV-C9 / CARTOSAT – 2A,"Apr 28, 2008",PSLV-CA,CARTOSAT – 2A,SSPO,Earth Observation,Successful
+GSLV-F04 / INSAT-4CR,"Sep 02, 2007",GSLV-MK-II,INSAT-4CR,GSO,Communication,Successful
+PSLV-C7 / CARTOSAT-2 / SRE-1,"Jan 10, 2007",PSLV-G,CARTOSAT-2,SSPO,Experimental,Successful
+PSLV-C7 / CARTOSAT-2 / SRE-1,"Jan 10, 2007",PSLV-G,CARTOSAT-2,SSPO,Earth Observation,Successful
+GSLV-F02 / INSAT-4C,"Jul 10, 2006",GSLV-MK-II,INSAT-4C,GSO,Communication,Launch Unsuccessful
+PSLV-C6/CARTOSAT-1/HAMSAT,"May 05, 2005",PSLV-G,CARTOSAT-1,SSPO,Communication,Successful
+PSLV-C6/CARTOSAT-1/HAMSAT,"May 05, 2005",PSLV-G,CARTOSAT-1,SSPO,Earth Observation,Successful
+GSLV-F01 / EDUSAT(GSAT-3),"Sep 20, 2004",GSLV-MK-II,EDUSAT,GSO,Communication,Successful
+PSLV-C5 /RESOURCESAT-1,"Oct 17, 2003",PSLV-G,IRS-P6 / RESOURCESAT-1,SSPO,Earth Observation,Successful
+GSLV-D2 / GSAT-2,"May 08, 2003",GSLV-MK-II,GSAT-2,GSO,Communication,Successful
+PSLV-C4 /KALPANA-1,"Sep 12, 2002",PSLV-G,KALPANA-1,GSO,"Climate & Environment, Communication",Successful
+PSLV-C3 / TES,"Oct 22, 2001",PSLV-G,The Technology Experiment Satellite (TES),SSPO,Earth Observation,Successful
+GSLV-D1 / GSAT-1,"Apr 18, 2001",GSLV-MK-II,GSAT-1,GSO,Communication,Successful
+PSLV-C2/IRS-P4,"May 26, 1999",PSLV-G,Oceansat(IRS-P4),SSPO,Earth Observation,Successful
+PSLV-C1 / IRS-1D,"Sep 29, 1997",PSLV-G,IRS-1D,SSPO,Earth Observation,Successful
+PSLV-D3 / IRS-P3,"Mar 21, 1996",PSLV-G,IRS-P3,SSPO,Earth Observation,Successful
+PSLV-D2,"Oct 15, 1994",PSLV-G,IRS-P2,SSPO,Earth Observation,Successful
+PSLV-D1,"Sep 20, 1993",PSLV-G,,LEO,Earth Observation,Launch Unsuccessful
+ASLV-D3,"May 20, 1992",,SROSS-C,,Experimental,Successful
+ASLV-D2,"Jul 13, 1988",,SROSS-2,,"Earth Observation, Experimental",Launch Unsuccessful
+ASLV-D1,"Mar 24, 1987",,SROSS-1,,Experimental,Launch Unsuccessful
+SLV-3,"Apr 17, 1983",,Rohini Satellite RS-D2,LEO,Earth Observation,Successful
+SLV-3D1,"May 31, 1981",,Rohini Satellite RS-D1,LEO,Earth Observation,Successful
+SLV-3E2,"Jul 18, 1980",,Rohini Satellite RS-1,,,Successful
+SLV-3E1,"Aug 10, 1979",,Rohini Technology Payload (RTP),,,Launch Unsuccessful
